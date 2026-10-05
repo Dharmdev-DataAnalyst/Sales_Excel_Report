@@ -4,7 +4,7 @@ An interactive Excel dashboard designed to analyze sales transactions, customer 
 
 ## 📊 Dashboard Preview
 
-![Sales Analysis Dashboard Preview](Dashboard_Screenshot/Sales_Dashboard.png)
+![Sales Analysis Dashboard Preview](DashboardScreenshot/Sales_Dashboard.png)
 
 ## 🎯 Project Objective
 
